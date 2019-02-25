@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #c3d8d0;
+	background-image: 
+		radial-gradient(#ffe6e6 20%, transparent 0),
+		radial-gradient(#ffe6e6 20%, transparent 0);
+	background-size: 30px 30px;
+	background-position: 0 0, 15px 15px;
+}
+
+h1 {
+	font-family: Apple Chancery, cursive;
+}
